@@ -1,4 +1,4 @@
-# 🚀 My Personal Portfolio Website
+![image](https://github.com/user-attachments/assets/68766f3a-5580-405d-bc58-b728f6e629eb)# 🚀 My Personal Portfolio Website
 
 Welcome to my portfolio! This is a modern, responsive website built to showcase my skills, projects, and experience as a front-end developer. I designed it with clean code structure and a focus on usability and aesthetics.
 
@@ -17,8 +17,8 @@ Welcome to my portfolio! This is a modern, responsive website built to showcase 
 
 ## 📸 Website Preview
 
-<img width="1728" alt="Screenshot 2025-06-05 at 21 02 13" src="https://github.com/user-attachments/assets/54d34e2e-5c03-463f-bf5a-eca4a2b7b492" />
 
+<img width="1715" alt="Screenshot 2025-06-05 at 21 45 42" src="https://github.com/user-attachments/assets/25d171f2-dc39-439c-8cc8-5c22ea1084fe" />
 
 ---
 
