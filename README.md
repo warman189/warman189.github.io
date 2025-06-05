@@ -22,15 +22,6 @@ Welcome to my portfolio! This is a modern, responsive website built to showcase 
 
 ---
 
-## 📂 Sections Overview
-
-- **About Me** – Quick summary of who I am and what I do
-- **Projects** – Real examples of my work with live demo links
-- **Skills** – Technologies and tools I work with
-- **Contact** – Ways to reach out to me
-
----
-
 ## 📬 Contact Me
 
 Feel free to reach out if you're interested in collaboration or just want to say hi!
