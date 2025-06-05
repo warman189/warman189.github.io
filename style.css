@@ -543,31 +543,87 @@ footer {
   }
 }
 @media (max-width: 600px) {
-  main {
-    max-width: 100vw;
-    padding: 0 8px;
+  body {
+    font-size: 0.75rem;
+    letter-spacing: 0.2px;
   }
-  section {
-    padding: 12px 4px;
+  header {
+    padding: 1.2rem 0.5rem 0.7rem 0.5rem;
+    margin-top: 8px;
   }
   header h1 {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.3rem;
+  }
+  header p {
+    font-size: 0.8rem;
+    margin-bottom: 8px;
+  }
+  nav {
+    gap: 0.7rem;
+    margin-top: 0.7rem;
+  }
+  nav a {
+    font-size: 0.8rem;
+    padding: 2px 4px;
+    margin: 0 4px;
+  }
+  main {
+    max-width: 100vw;
+    padding: 0 2px;
+  }
+  section {
+    padding: 8px 2px;
+    margin-bottom: 1.2rem;
+    border-radius: 10px;
+  }
+  h2 {
+    font-size: 0.9rem;
+    margin-bottom: 10px;
   }
   .projects-grid {
     grid-template-columns: 1fr;
-    gap: 10px;
+    gap: 8px;
   }
   .project-card {
-    padding: 10px;
-    font-size: 0.85rem;
+    padding: 6px;
+    font-size: 0.8rem;
+    border-radius: 8px;
   }
-  nav a {
+  .project-card h3 {
     font-size: 0.9rem;
-    padding: 2px 4px;
+    margin-bottom: 6px;
   }
-  body {
-    font-size: 0.9rem;
-    letter-spacing: 0.5px;
+  .project-card p {
+    font-size: 0.8rem;
+    margin-bottom: 8px;
+  }
+  .project-card a,
+  .project-card button {
+    font-size: 0.8rem;
+    padding: 4px 10px;
+    margin-top: 4px;
+  }
+  form {
+    gap: 6px;
+    margin-top: 0.7rem;
+  }
+  input,
+  textarea {
+    font-size: 0.8rem;
+    padding: 6px;
+    border-radius: 0;
+  }
+  button[type="submit"] {
+    font-size: 0.8rem;
+    padding: 6px 12px;
+    margin-top: 4px;
+    border-radius: 0;
+  }
+  footer {
+    font-size: 0.7rem;
+    padding: 10px 0;
   }
 }
 
@@ -644,4 +700,3 @@ footer {
 }
 
 /* ny i droch'ebanaja */
-
