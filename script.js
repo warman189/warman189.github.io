@@ -1,9 +1,9 @@
 // Typing effect for role
 const roles = [
   "Front-End Developer",
-  "JavaScript Lover",
-  "Awful Perfectionist",
-  "Web Creator",
+  "JavaScript is illogical",
+  "React for cocksuckers",
+  "Ai will replace the real humans",
 ];
 let roleIndex = 0,
   charIndex = 0,
