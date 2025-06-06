@@ -31,7 +31,7 @@ Feel free to reach out if you're interested in collaboration or just want to say
 - 🌐 GitHub: [github.com/warman189](https://github.com/warman189)
 
 ---
-
+ 
 ## ⚙️ How It Works (for Developers)
 
 To run this project locally:
